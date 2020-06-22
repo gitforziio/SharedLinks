@@ -1,3 +1,5 @@
+导出工具： https://github.com/gitforziio/wechat-moments
+
 共找到809条朋友圈。
 
 | time_string | contentDesc | sharedLink | sourceNickName |
